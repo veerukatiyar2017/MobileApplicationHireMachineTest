@@ -86,7 +86,7 @@ Response JSON:
     }
 ```
 
-## 3. On Select any user from list a user detail page should be there and can update
+## 4. On Select any user from list a user detail page should be there and can update
 
 ## image:
 
