@@ -1,4 +1,4 @@
-# Mobile Application Machine Test
+# Application Machine Test
 > Application Design must be good.
 
 ## 1. Create Login Screen with fields:
